@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-1.png" width="200" />
+  <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="200" />
 </p>
 
 <h1 align="center">
