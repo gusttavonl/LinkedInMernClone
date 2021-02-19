@@ -1,0 +1,52 @@
+.Header{
+    padding: 10px 0 0 0;
+    background-color: white
+}
+.headerLeft{
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+}
+
+.headerLogo{
+    width: 35px;
+}
+
+.headerLeft > button{
+    background-color: #F2F2F2;
+    border: none;
+    margin-left: 10px;
+}
+
+.headerLeft > button > input {
+    background-color: #F2F2F2;
+    border: none;
+}
+
+.headerRight{
+    display: flex;
+    flex-direction: row;
+    margin-left: 50px;
+}
+
+.headerRightItem{
+    display: flex;
+    flex-direction: column;
+    margin-left: 25px;
+}
+
+.headerRightItem > .MuiSvgIcon-root{
+    font-size: 25px;
+    color: #585858;
+}
+
+.headerRightItemIconLarg > .MuiSvgIcon-root{
+   margin-left: 25px;
+   font-size: 25px;
+   color: #585858;
+}
+
+.headerRightItemAvatar{
+    width: 15px;
+}
+

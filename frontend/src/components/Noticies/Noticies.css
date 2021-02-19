@@ -1,0 +1,21 @@
+.Noticies{
+    margin-top: 20px;
+    border: 1px solid lightgray;
+    background-color: white;
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+    padding: 10px;
+  
+}
+
+.Noticies > ul {
+    margin-left: -20px;
+    font-weight: bold;
+    font-size: 14px;
+    color: #585858;
+}
+
+.Noticies > ul > li > p{
+    font-size: 12px;
+}

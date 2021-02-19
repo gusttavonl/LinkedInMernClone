@@ -1,0 +1,67 @@
+.Feed{
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+.feedWrite{
+    background-color: white;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.feedWriteInput{
+    width: 320px;
+    padding: 5px;
+    border: none;
+    outline: none;
+}
+
+.feedPubs{
+    border-radius: 5px;
+    background-color: white;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.feedPubsItemPeople{
+    display: flex;
+    flex-direction: row;
+}
+
+.feedPubsItemPeople > h6{
+    margin-left: 10px;
+}
+
+.feedPubsItemDesc{
+    font-size: 13px;
+    color: gray;
+    margin-left: 50px;
+    margin-top: -20px;
+}
+
+.feedPubsItemPub{
+    padding: 10px;
+}
+
+.feedPubsItemPub > img{
+    width: 450px;
+}
+
+.feedPubsItemFeedback{
+    display: flex;
+    flex-direction: row;
+}
+
+.feedPubsItemFeedbackItem{
+    display: flex;
+    flex-direction: row;
+}
+
+.feedPubsItemFeedbackItem > p{
+    margin-left: 10px;
+    color: gray;
+}
+.feedPubsItemFeedbackItem > .MuiSvgIcon-root{
+    margin-left: 10px;
+    color: gray;
+}
