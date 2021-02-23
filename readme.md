@@ -13,6 +13,11 @@ Clone completo do LinkedIn web feito com Mern Stack ( Mongodb, Express, React Js
 ## Imagens do Projeto
 ![clone linkedin](https://user-images.githubusercontent.com/77861206/108550523-70b98280-72cd-11eb-8cb1-62b0dee4c1c1.PNG)
 
+## Back end do Projeto
+##### Aqui algumas imagens do controller das publicações
+![image](https://user-images.githubusercontent.com/77861206/108887235-ba191300-75e8-11eb-9149-0b3f4fa8f462.png)
+
+
 
 ## Como executar o front end
 
