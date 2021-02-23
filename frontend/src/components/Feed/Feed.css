@@ -16,6 +16,15 @@
     outline: none;
 }
 
+.feedWriteButton{
+    border:none;
+    color: white;
+    background-color: #0e76a8;
+    border-radius: 10px;
+    padding: 2px 15px;
+    margin-top: 7px;
+}
+
 .feedPubs{
     border-radius: 5px;
     background-color: white;
