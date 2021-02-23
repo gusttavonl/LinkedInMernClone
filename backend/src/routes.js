@@ -1,7 +1,6 @@
 const express = require('express');
 const usuarioController = require('./controller/usuario.controller');
 const publicacaoController = require('./controller/publicacao.controller');
-const comentarioController = require('./controller/comentario.controller');
 
 const routes = express.Router(); // usado para fazer as rotas
 
